@@ -1,5 +1,3 @@
-# learning-kafka
-
 ## How to set it up
 
 ### Zookeeper
